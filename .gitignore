@@ -1,9 +1,4 @@
-# Ignore environment variable files
-.env
-
-# Ignore Python cache files and folders
-__pycache__/
-*.pyc
-
-# Ignore other common stuff (optional)
-*.log
+.vscode/
+.streamlit/
+venv/
+env/
