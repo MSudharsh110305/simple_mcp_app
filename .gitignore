@@ -1,4 +1,17 @@
-.vscode/
-.streamlit/
-venv/
+# Python cache
+__pycache__/
+
+# Firebase config
+firebase/firebase_config.json
+
+# Environment variables
 .env
+
+# Virtual environments
+venv/
+
+# VS Code settings
+.vscode/
+
+# Streamlit configuration
+.streamlit/
