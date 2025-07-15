@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # Python cache
-__pycache__/
+**/__pycache__/
+
 
 # Firebase config
 firebase/firebase_config.json
